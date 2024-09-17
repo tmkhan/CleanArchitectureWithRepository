@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {
+    "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Moazzam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

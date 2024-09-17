@@ -675,11 +675,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Moazzam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -701,8 +701,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Domain\\Domain.csproj"
+            "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Domain\\Domain.csproj"
             }
           }
         }

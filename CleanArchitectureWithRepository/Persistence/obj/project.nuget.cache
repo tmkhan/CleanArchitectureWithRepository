@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UlbSZvGOppWQu5FCTPDGLVAPhIU/bOWezIQzmA8qf8EwVqZbqUws38M7NpTvPXJNN0Udw3kGscJTdIypPmRKQw==",
+  "dgSpecHash": "N5KfdZ0qWklljA9oewjrJIls02CUm0UO+2zmaV7xdz98ebfwu7C/xjSZigWj97O9BHDTnzEAdI9cjYriR0MU3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moazzam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Moazzam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

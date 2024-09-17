@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lgbmn8iLHIB1hRjI7zE3FxIflM+9XnKtsseS1wPceMYTmKlJzzvZ4429jSqnqs2HsNmd5szcWQ1aJl/h5GdqYQ==",
+  "dgSpecHash": "kvHKtliV70SZDNfXH6bsC1S+9Y2YEBsfRD0LFMH5DxXU/DyAF1GTt0XUTOcZkk8ZUbGZyGR85hlrPJpU1UtJzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\CleanArchitectureWithRepository\\CleanArchitectureWithRepository\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moazzam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Moazzam\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
